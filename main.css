@@ -1,0 +1,12 @@
+.note-left {
+	height: 20px;
+	margin-bottom: 0;
+	width: 100%;
+	overflow: visible;
+	border-top: 3px solid #D43900;
+	padding: 5px;
+	color: #4e4e4e;
+	font-size: 12;
+	background-color: #FFFFFF;
+	margin-left: calc(50% - 984px / 2);
+}
