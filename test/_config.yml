@@ -17,8 +17,8 @@ title: greentfrapp.github.io
 email:
 description: > # this means to ignore newlines until "baseurl:"
   
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://greentfrapp.github.io/distill-attention/test" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/distill-attention/test" # the subpath of your site, e.g. /blog
+url: "https://greentfrapp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:  greentfrapp
 linkedin_username: sweekiat
